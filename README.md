@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@naqium</b> or <b>Muhammad Naqiuddin Ahmad</b>
 - 👀 I’m interested in Programming and creating new project and ideas
-- 🌱 I’m currently learning front-end developing and further to back-end programming
+- 🌱 I’m currently learning  further to back-end programming
 - 💞️ I’m looking to collaborate on creating more project that are more complex
 - 📫 How to reach me 
     <b>Email: naqiudinmuhd95@gmail.com
